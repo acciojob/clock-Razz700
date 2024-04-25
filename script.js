@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let a=document.getElementById("time");
+let a=document.getElementById("timer");
 let d=new Date();
 setInterval(function() {
 	d=new Date();
